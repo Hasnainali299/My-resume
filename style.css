@@ -1,0 +1,43 @@
+.body{
+    background-color:  #90ab8e30;;
+    
+    padding: 1.5em;
+    border: 3px solid black;
+    
+   
+  
+}
+h1
+{
+    font-size: 2.7em;
+    color: #000000;
+    text-decoration: underline;
+    text-decoration-color: #2b494b4a;
+    text-shadow:2px 2px 2px grey;
+
+
+}
+
+h2{
+    font-family: ui-rounded;
+ 
+    font-size: 1.3em;
+    text-decoration: underline;
+    text-decoration-color: #2b494b4a;
+    text-shadow:2px 2px 2px grey;
+}
+h3{
+    font-family: ui-rounded;
+    font-size: 1.3em;
+    text-decoration: underline;
+    text-decoration-color: #2b494b4a;
+    text-shadow:2px 2px 2px grey;
+}
+
+h4{
+    font-family: ui-rounded;
+    font-size: 1.3em;
+    text-decoration: underline;
+    text-decoration-color: #2b494b4a;
+    text-shadow:2px 2px 2px grey;
+}
